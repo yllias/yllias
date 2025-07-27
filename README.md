@@ -3,11 +3,7 @@
   <h1>Yll Kryeziu</h1>
 
   <p>
-    Computer Science Student at TUM and SWE at Porsche Informatik
-  </p>
-
-  <p>
-    Exploring the intersection of technology, health, and everything in between.
+    Computer Science Student at TUM and Working Student SWE at Porsche Informatik
   </p>
 
   <p>
