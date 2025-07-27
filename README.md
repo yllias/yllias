@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yllias/yllias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Yll Kryeziu</h1>
 
-Here are some ideas to get you started:
+  <p>
+    Computer Science Student at TUM and SWE at Porsche Informatik
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    Exploring the intersection of technology, health, and everything in between.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/yll-kryeziu/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:yllkry@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://yllias.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    </a>
+  </p>
+</div>
+
+---
+
+I'm a Computer Science student at the Technical University of Munich (TUM), with a minor in Medicine. 
