@@ -13,8 +13,8 @@
     <a href="mailto:yllkry@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://yllias.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    <a href="https://yllkryeziu.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=github&logoColor=white" alt="Website">
     </a>
   </p>
 </div>
